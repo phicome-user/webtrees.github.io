@@ -22,7 +22,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [Bendinelli - Bargagna - Catassi](http://webtrees.bendinelliclaudio.it)
 * [Burgoyne, Young and Zeffertt](http://zeffertt.uk/webtrees)
 * [Cal Vermell](http://www.calvermell.cat/webtrees)
-* [Cappe-Flores](https://www.phicome.fr/webtrees)
+* [Cappe-Flores](https://www.phicome.eu) - Rural theme.
 * [Çelebi (Celepler) & akrabalar soyağacı](http://www.celebi24.com)
 * [Chodykin family genealogy](http://www.chodykin.lt)
 * [Craig and Ennis Kin](http://craigkin.tk) - Custom theme.
